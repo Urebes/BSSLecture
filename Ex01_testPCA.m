@@ -86,7 +86,7 @@ Cy_trace = trace(Cy)
 x_partial_energy = 100.0 * cumsum(D(end : -1 : 1))./x_total_energy
 
 % set a cut off threshold for the eigenvalues
-th = 99.9;
+th = 98;
 N_eigs_to_keep = find(x_partial_energy <= th, 1, 'last')
 
 % find a compressed version of x
@@ -95,7 +95,7 @@ x_compressed = V(:, N - N_eigs_to_keep + 1 : N) * y(N - N_eigs_to_keep + 1 : N, 
 
 t = (0 : T - 1)/fs;
 for ch = 1 : N
-    figure
+    %figure
     hold on
     plot(t, x(ch, :));
     plot(t, x_compressed(ch, :));

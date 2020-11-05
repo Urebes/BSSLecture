@@ -44,8 +44,7 @@ be changed that could have a significant impact on the result.
 
 Ex04: This script is mainly to detect EOG channels to be removed.It firstly
 used JADE to extract independent source, and then by checking the plots, 
-we could visually see which channels are noise channels, which was 23, 24, 
-and 25, as we know beforehand. 
+we could visually see which channels are noise channels.
 
 Ex05: I tested the next one: testECGICAPCAPiCAPlot1, which compares several 
 feature extraction methods including independent component analysis(ICA), 
