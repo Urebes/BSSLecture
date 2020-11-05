@@ -3,24 +3,24 @@
 ## Emory University Department of Biomedical Informatics
 
 A short lecture of blind-source separation algorithms with practical examples in Matlab
-Q1
+**Q1**
 Part A
-<img src='https://github.com/Urebes/BSSLecture.git/p1-1.jpeg'>
+<img src='https://github.com/Urebes/BSSLecture/blob/main/p1-1.jpeg'>
 
 Part B
-<img src='https://github.com/Urebes/BSSLecture.git/p1-2.png'>
+<img src='https://github.com/Urebes/BSSLecture/blob/main/p1-2.png'>
 
-Q2
+**Q2**
 PART A
-<img src='https://github.com/Urebes/BSSLecture.git/p2-1.png'>
+<img src='https://github.com/Urebes/BSSLecture/blob/main/p2-1.png'>
 
 Part B
 Eigenvalues:
-<img src='https://github.com/Urebes/BSSLecture.git/lambdas.png'>
+<img src='https://github.com/Urebes/BSSLecture/blob/main/lambdas.png'>
 Two Vectors:
-<img src='https://github.com/Urebes/BSSLecture.git/vectors.png'>
+<img src='https://github.com/Urebes/BSSLecture/blob/main/vectors.png'>
 
-Q3
+**Q3**
 Part A: SEE CODE
 I didn't change the data source as in the previous file
 Part B:
@@ -52,7 +52,7 @@ feature extraction methods including independent component analysis(ICA),
 principle component analysis(PCA) and Pseudo-Periodic Component Analysis 
 (πCA).
 
-Q4.
+**Q4**
 
 I chose to review the paper "EEG Signal Classification Using PCA, ICA, LDA 
 and Support Vector Machines" by A. Subasi and M. I. Gursoy.
