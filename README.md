@@ -16,7 +16,7 @@ PART A
 
 Part B
 Eigenvalues:
-<img src='https://github.com/Urebes/BSSLecture/blob/main/lambdas.png'>
+<img src='https://github.com/Urebes/BSSLecture/blob/main/lamdas.png'>
 Two Vectors:
 <img src='https://github.com/Urebes/BSSLecture/blob/main/vectors.png'>
 
